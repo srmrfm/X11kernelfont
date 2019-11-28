@@ -1,9 +1,9 @@
 # X11kernelfont
 It looks like a standard linux kernel font, but works in X11 and aims for full unicode support.
 
-basic ascii: DONE
+standar ascii: DONE
 
-cp437 Graphic chars: DONE
+M$DOS extended ascii/cp437: DONE
 
 Cyrillic: mostly complete, needs further testing
 
