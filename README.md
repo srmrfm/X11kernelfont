@@ -1,5 +1,7 @@
 # X11kernelfont
 It looks like a standard linux kernel font, but works in X11 and aims for full unicode support.
+Chromium won't use it (bitmap fonts not supported?), but it works with i3bar, dmenu, rofi, and
+every terminal emulator I tried.
 
 standard ascii: DONE
 
