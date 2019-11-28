@@ -15,9 +15,9 @@ Hebrew: incomplete(missing characters probably rarely used), needs testing
 
 Greek: incomplete(missing characters probably rarely used), needs testing
 
-Box drawing etc.: good enough for Midnight Commander, but incomplete.
+Box drawing etc.: good enough for Midnight Commander, but glyphs not present in consolefonts may be missing.
 
-Mathematical symbols: incomplete, need help]
+Mathematical symbols: very incomplete, need help
 
 Bold and Italic: WIP, likely to be latin-only for readability reasons. Files currently lost.
 
