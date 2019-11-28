@@ -25,4 +25,4 @@ Misc unicode: eventually
 
 Bold: unlikely in current format (latin script is ugly, cyrillic is unreadable), maybe in a future scalable version.
 
-Truetype: nope.
+Truetype: lol no
