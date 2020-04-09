@@ -3,6 +3,11 @@ It looks like a standard linux kernel font, but works in X11 and aims for full u
 Chromium won't use it (bitmap fonts not supported?), but it works with i3bar, dmenu, rofi, and
 every terminal emulator I tried. Nearly all glyphs are straight from /usr/share/consolefonts.
 
+Note: Using the .bdf version is *highly* recommended on capable systems, it's much sharper than the OpenType (.otb) 
+version, which is quite blurry. I will try to fix this, but I suspect it is a problem with OpenType bitmap fonts, or 
+possibly a font render issue. This may take some time, as I am unfamiliar with Opentype and with the .otb format.
+
+
 standard ascii: DONE
 
 M$DOS extended ascii/cp437: DONE
