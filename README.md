@@ -24,7 +24,8 @@ Box drawing etc.: good enough for Midnight Commander, but glyphs not present in 
 
 Mathematical symbols: very incomplete, need help
 
-Bold and Italic: WIP, likely to be latin-only for readability reasons. Files currently lost.
+Bold and Italic: Use the OpenType version if you really need these, the .bdf ones are WIP and likely to be 
+latin-only for readability reasons. Files currently lost.
 
 Emoji: Contributions welcome!
 
