@@ -25,4 +25,4 @@ Emoji: Contributions welcome!
 
 Misc unicode: eventually
 
-Truetype: lol no... OK, maybe.
+Truetype: ~~lol no... OK, maybe.~~ Assimilated by the OpenType Collective.
